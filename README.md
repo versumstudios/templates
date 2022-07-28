@@ -4,4 +4,4 @@ Templates for @versumstudios/cli
 
 ## Contributing
 
-Create your template, add the keys `**TITLE**` and `**DESCRIPTION**` to your template.
+If you want to contribute with new templates please make a pull request. On your template you need to use `**TITLE**` and `**DESCRIPTION**` which are placeholders for the CLI to change with user specific input.
