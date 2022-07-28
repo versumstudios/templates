@@ -4,4 +4,4 @@ Templates for @versumstudios/cli
 
 ## Contributing
 
-Create your template, add the keys `templatetitle` and `templatedescription` to your template.
+Create your template, add the keys `**TITLE**` and `**DESCRIPTION**` to your template.
