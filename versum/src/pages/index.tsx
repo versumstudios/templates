@@ -2,7 +2,7 @@ import { Example } from '@components/example';
 
 const Homepage = () => (
   <main>
-    <Example>Hello World</Example>
+    <Example>**TITLE**</Example>
   </main>
 );
 

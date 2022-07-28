@@ -1,6 +1,6 @@
-# templatetitle
+# **TITLE**
 
-templatedescription
+**DESCRIPTION**
 
 ## Getting Started
 

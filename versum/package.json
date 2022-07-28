@@ -1,6 +1,6 @@
 {
-  "name": "templatetitle",
-  "description": "templatedescription",
+  "name": "**TITLE**",
+  "description": "**DESCRIPTION**",
   "version": "0.1.0",
   "private": true,
   "scripts": {
