@@ -1,6 +1,6 @@
 # templates
 
-Templates for @versumstudios/cli
+Templates for [@versumstudios/cli](https://github.com/versumstudios/cli)
 
 ## Contributing
 
